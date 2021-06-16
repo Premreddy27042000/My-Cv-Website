@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+   font-size: 1.4em;
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+ margin-top: 50px auto;
+ font-family: 'Sacramento', cursive;
+ font-size: 5.2rem;
+ color:yellow;
+}
+
+#web{
+    font-size: 3rem;
+    color:yellow;
+
+}
+
+.details{
+    background-color:coral;
+   font-weight: normal;
+    position: relative;
+    padding-top: 100px;
+    line-height: 2;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+  
+    right: 300px;
+}
+
+.skill-row{
+    
+    width: 60%;
+    margin: 100px auto 100px auto;
+    
+    text-align: left;
+    line-height: 2;
+}
+.img{
+    margin-top: 50px;
+    width: 300px;
+    height: 300px;
+}
+
+.img-1{
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 50;
+   
+}
+
+.img-2{
+    width: 25%;
+    
+    margin-right: 50;
+    float: right;
+}
+
+
+.bottom-container{
+    background-color:#66BFBF ;
+    height: 200px;
+    margin: 50px auto 0 auto;
+    padding-top: 100px;
+   
+}
+.bottom-container a{
+    text-decoration: none;
+    padding:30px;
+}
+.bottom-container p{
+    color: white;
+    padding-top: 30px;
+}
+
+.btn{
+    background-color: #66BFBF;
+    text-decoration: none;
+    font-size: 40px;
+    color: white;
+    border-radius: 30px;
+    padding:16px;
+    
+}
+.contact-me{
+    margin: 100px auto;
+    width: 60%;
+}
+.contact-me h2{
+    color:#11999E ;
+}
+
+h3,a,h2{
+    color: #11999E;
+}
+
+.contact-me p{
+    margin: 0 0 50 0;
+}
+
+hr{
+    border-top: 5px dotted  grey;
+    width: 10%;
+}
+
+.profile{
+    margin: 0 auto 100px auto;
+}
+
+.skills h2{
+    margin-top: 100px;
+}
+
+#student{
+    width: 60%;
+    margin: auto;
+}
+
+.btn:hover{
+    background-color: hotpink;
+}
